@@ -1,0 +1,30 @@
+# Large video/media files — store these in Cardboard, Google Drive, or similar
+# If you want to track them in git, set up Git LFS: https://git-lfs.com
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.gif
+
+# Large image files (keep small reference images, ignore large exports)
+# Uncomment these if the outputs folder gets too large:
+# *.png
+# *.jpg
+# *.jpeg
+# *.tiff
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
