@@ -1,6 +1,8 @@
 # Cardboard Assembly Brief
 
-Use these as prompts when uploading clips to Cardboard. Tips sourced directly from the Cardboard team.
+> **What you're reading:** [Cardboard](https://www.usecardboard.com/) is an AI-powered video editor. Instead of manually cutting and splicing clips on a timeline, you upload raw footage and describe what you want in plain English. The AI handles the editing — trimming dead air, adding captions, adjusting pacing, and assembling clips into a polished final product.
+>
+> Below are the exact prompts Ed will use to turn raw demo recordings into the finished video. Tips sourced directly from the Cardboard team.
 
 ---
 

@@ -4,6 +4,10 @@
 **Date:** 2026-03-27
 **Status:** Approved
 
+> **What you're reading:** This is the full production plan for the video — created collaboratively between Ed and Claude (Anthropic's AI) in a single working session. It covers every detail: what gets demonstrated, which AI platform is used for each demo, what Ed says on camera, how the raw footage gets assembled, and what to do if something goes wrong during recording.
+>
+> The fact that this level of planning was produced through a conversation with AI is itself a demonstration of what these tools can do.
+
 ---
 
 ## Overview

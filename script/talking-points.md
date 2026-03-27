@@ -1,5 +1,11 @@
 # Talking Points — Reference Script
 
+> **What you're reading:** This is the reference script Ed uses while recording the video. It's not a teleprompter — it's a set of bullet points to talk from naturally, with stage directions in *italics* showing what's happening on screen. It also includes the pre-recording checklist at the bottom.
+>
+> This script was collaboratively written with AI (Claude) during the planning phase of this project.
+
+---
+
 Use these as a guide while recording. Talk naturally — don't read verbatim. Your energy and industry knowledge will fill the gaps.
 
 ---
