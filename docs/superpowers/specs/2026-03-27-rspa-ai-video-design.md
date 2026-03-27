@@ -163,10 +163,12 @@ See [`script/talking-points.md`](../../../script/talking-points.md) for the full
 
 ## Cardboard Assembly Brief
 
-See [`cardboard/assembly-brief.md`](../../../cardboard/assembly-brief.md) for the full copy-paste prompts for Cardboard. Covers:
+See [`cardboard/assembly-brief.md`](../../../cardboard/assembly-brief.md) for the full copy-paste prompts for Cardboard. Includes tips directly from the Cardboard team. Covers:
 - Main video assembly (7 clips → 3-5 min, 16:9)
-- 5 individual social media clips (30-60 sec each)
+- Talking head as picture-in-picture overlay during screen recordings
+- 5 individual social media clips (30-60 sec each) with structured reel-style prompts
 - Optional 9:16 vertical cuts for Reels/Shorts/TikTok
+- Pro tips: stacking edit requests, search-by-content for finding moments in raw footage, 1.5x pacing
 
 ---
 
